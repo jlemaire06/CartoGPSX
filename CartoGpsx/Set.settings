@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CartoGpsx" GeneratedClassName="Set">
+  <Profiles />
+  <Settings>
+    <Setting Name="numMap" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="zoomMap" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">14</Value>
+    </Setting>
+    <Setting Name="latCenterMap" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">43.86</Value>
+    </Setting>
+    <Setting Name="lngCenterMap" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">7.09</Value>
+    </Setting>
+    <Setting Name="okGps" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="okGpx" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="gpxFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
